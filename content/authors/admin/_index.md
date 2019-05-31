@@ -1,41 +1,40 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ruodan Zhang
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+- name: O'Neill School, Indiana University-Bloomington
+  url: "https://spea.indiana.edu/"
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public and Nonprofit Management
+- Civic participation
+- Volunteerism
+- Advocacy
+- Public Policy Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Public Affairs
+    institution: Indiana University-Bloomington
+    year: May 2020 (expected)
+  - course: M.P.A, Policy Analysis, Nonprofit Management
+    institution: Indiana University-Bloomington
+    year: May 2015
+  - course: Bachelor of Social Sciences
+    institution: The University of Hong Kong
+    year: June 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +43,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:rz3@iu.edu"  # For a direct email link, use "mailto:rz3@iu.edu".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.iu.edu/rz3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a social scientist specializing in nonprofit management and volunteerism. My broader research agenda explores why citizens participate and persist in the public sphere.  My research examines how nonprofit-government interactions and organizational practices, such as diversity management, training, and recognition, affect individual participation and persistence in nonprofit-type activities. My work has been published in _Nonprofit Management & Leadership_, _Asian Journal of Political Science_.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I expect to earn a Ph.D. in Public Affairs from the O’Neill School, Indiana University-Bloomington in May 2020. 
