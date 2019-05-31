@@ -3,11 +3,11 @@
 # This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Dance, etc."
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,3 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Outside of research, dance is my number-one passion. I am a classically trained dancer, and began dancing since I was four years old. I received a majority of my dance training in Ningbo, China. In Bloomington, I have performed with MotionArts Dance Academy (Ballet) and IU African American Dance Company (Contemporary). I also enjoy Chinese Ethnic and Folk Dances, Ballroom/Latin Dance, Jazz, Swing, Salsa, and Bachata. 
+
+I began riding in 2016, and I have been training in English riding (dressage and show jumping). As a new member of the US Equestrian Federation, I hope to appear in the show ring soon.
