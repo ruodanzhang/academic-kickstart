@@ -3,16 +3,16 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,6 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+1. [Walk, M.](https://oneill.iupui.edu/contact/people-directory/walk-marlene.html), **Zhang, R.** & [Littlepage, L.](https://spea.indiana.edu/faculty-research/directory/profiles/faculty/full-time/littlepage-laura.html) (2018). [“Don't you want to stay?" The impact of training and recognition as HR practices on volunteer turnover.](https://onlinelibrary.wiley.com/doi/full/10.1002/nml.21344) _Nonprofit Management & Leadership_, online first.
+
+2. [Jung, H.](https://kupa.korea.edu/kupaeng/professor/fulltime.do?mode=view&articleNo=36685&article.offset=0&articleLimit=200) & **Zhang, R.** (2017). [Impact evaluations in South Korea and China.](http://dx.doi.org/10.1080/02185377.2017.1373685) _Asian Journal of Political Science_, 25:3, 328-349.

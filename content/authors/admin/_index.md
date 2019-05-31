@@ -63,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-I am a social scientist specializing in nonprofit management and volunteerism. My broader research agenda explores why citizens participate and persist in the public sphere.  My research examines how nonprofit-government interactions and organizational practices, such as diversity management, training, and recognition, affect individual participation and persistence in nonprofit-type activities. My work has been published in _Nonprofit Management & Leadership_, _Asian Journal of Political Science_.
+I am a social scientist specializing in nonprofit management and volunteerism. My broader research agenda explores why citizens participate and persist in the public sphere.  My research examines how nonprofit-government interactions and organizational practices, such as diversity management, training, and recognition, affect individual participation and persistence in nonprofit-type activities. My work has been published in _Nonprofit Management & Leadership_, and _Asian Journal of Political Science_.
 
 I expect to earn a Ph.D. in Public Affairs from the O’Neill School, Indiana University-Bloomington in May 2020. 

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Works in Progress"
 subtitle = ""
 
 [content]
@@ -74,3 +74,10 @@ subtitle = ""
  css_class = ""
 +++
 
+## Volunteerism, Advocacy
+* Zhang, R. “Persistence in adversity: Why do protesters in China respond to state control differently?" Presented at ARNOVA 2018, Austin, TX; ISTR 2018, Amsterdam, The Netherlands.
+* Zhang, R., Haohan Chen, & Jill Nicholson-Crotty. “Does government funding to public charities crowd out or crowd in volunteers?" Presented at ARNOVA 2018, Austin, TX.
+
+## Diversity Management
+* Zhang, R. & Marlene Walk. “Managing volunteer diversity." slides.
+* Zhang, R. & Brad Fulton. “Managing resources and legitimacy: The impact of leadership diversity on nonprofit survival." Presented at ISTR 2018, Amsterdam, The Netherlands. AOM 2019 Proceeding.

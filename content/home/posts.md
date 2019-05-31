@@ -3,11 +3,11 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Teaching"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,3 +65,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## Instructor of Record
+_V348 Management Science_, Fall 2017, Spring 2018, Fall 2018, Spring 2019. Syllabus. Evaluation.
+
+## Guest Lecturer
+_V336 Management Concepts & Applications II_, “Introduction to the nonprofit sector”, Fall 2017.
+
+_N525 Management in the Nonprofit Sector_, “Ethics” (MPA-level), Fall 2017.
+
+## Teaching Assistant
+_K300 Statistical Techniques_, Spring 2014.

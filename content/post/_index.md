@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Teaching
 
 # View.
 #   1 = List
@@ -12,3 +12,14 @@ header:
   caption: ""
   image: ""
 ---
+
+## Instructor of Record
+_V348 Management Science_, Fall 2017, Spring 2018, Fall 2018, Spring 2019. Syllabus. Evaluation.
+
+## Guest Lecturer
+_V336 Management Concepts & Applications II_, “Introduction to the nonprofit sector”, Fall 2017.
+
+_N525 Management in the Nonprofit Sector_, “Ethics” (MPA-level), Fall 2017.
+
+## Teaching Assistant
+_K300 Statistical Techniques_, Spring 2014.
