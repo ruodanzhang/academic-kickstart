@@ -75,9 +75,15 @@ subtitle = ""
 +++
 
 ## Volunteerism, Advocacy
+* Zhang, R., [Haohan Chen](https://haohanchen.github.io), & [Jill Nicholson-Crotty](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/nicholson-crotty-jill.html). “A new bureaucratic effect: Does government funding to nonprofit organizations crowd out or crowd in volunteers?" (under review)
+
 * Zhang, R. “Persistence in adversity: Why do protesters in China respond to state control differently?" Presented at ARNOVA 2018, Austin, TX; ISTR 2018, Amsterdam, The Netherlands.
-* Zhang, R., Haohan Chen, & Jill Nicholson-Crotty. “Does government funding to public charities crowd out or crowd in volunteers?" Presented at ARNOVA 2018, Austin, TX.
+
+* Zhang, R. “Who speaks truth to power for nonprofit organizations?: The organizational choice between volunteers and paid staff in lobbying activities.” Accepted for presentation at ARNOVA 2019.
+
 
 ## Diversity Management
-* Zhang, R. & Marlene Walk. “Managing volunteer diversity." slides.
-* Zhang, R. & Brad Fulton. “Managing resources and legitimacy: The impact of leadership diversity on nonprofit survival." Presented at ISTR 2018, Amsterdam, The Netherlands. AOM 2019 Proceeding.
+* Zhang, R. & [Brad Fulton](http://blogs.iu.edu/fulton/). “Sometimes it takes time: The impact of leadership diversity on organizational financial performance and survival.” Earlier drafts presented at ISTR 2018, Amsterdam, The Netherlands. AOM 2019, Boston, MA. [Slides](files/aom.pptx)
+
+* Zhang, R. & Marlene Walk. “Racial diversity and volunteer retention.” Presented at PMRC 2019, Chapel Hill, NC. [Slides](files/pmrc.pdf)
+

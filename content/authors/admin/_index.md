@@ -19,6 +19,7 @@ organizations:
 
 interests:
 - Public and Nonprofit Management
+- Organizational Theory
 - Civic Participation
 - Volunteerism
 - Advocacy
@@ -63,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I am a social scientist specializing in nonprofit management and volunteerism. My broader research agenda centers on why citizens participate and persist in the public sphere.  My research examines how nonprofit-government interactions and organizational practices, such as diversity management, training, and recognition, affect individual participation and persistence in nonprofit-type activities. My work has been published in _Nonprofit Management & Leadership_, and _Asian Journal of Political Science_.
+I am a social scientist specializing in nonprofit management and volunteerism. My broader research agenda centers on why citizens participate and persist in public affairs, and the corresponding roles of public and nonprofit organizations.  My dissertation examines how organizational level interaction between government and nonprofit organizations affect volunteering and citizen participation. I am also interested in volunteer retention, diversity and organizational survival.  My work has been published in _Nonprofit Management & Leadership_, and the _Asian Journal of Political Science_.
 
 I expect to earn a Ph.D. in Public Affairs from the O’Neill School, Indiana University-Bloomington in May 2020. I completed an M.P.A. at Indiana University in 2015, and a B.Soc.Sci in Politics and Philosophy at the University of Hong Kong in 2012.
