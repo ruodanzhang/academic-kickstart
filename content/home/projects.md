@@ -83,7 +83,7 @@ subtitle = ""
 
 
 ## Diversity Management
-* Zhang, R. & [Brad Fulton](http://blogs.iu.edu/fulton/). “Sometimes it takes time: The impact of leadership diversity on organizational financial performance and survival.” Earlier drafts presented at ISTR 2018, Amsterdam, The Netherlands. AOM 2019, Boston, MA. [Slides](files/aom.pptx)
+* Zhang, R. & [Brad Fulton](http://blogs.iu.edu/fulton/). “Sometimes it takes time: The impact of leadership diversity on organizational financial performance and survival.” Earlier drafts presented at ISTR 2018, Amsterdam, The Netherlands. AOM 2019, Boston, MA. [Slides](files/aom.pdf)
 
 * Zhang, R. & Marlene Walk. “Racial diversity and volunteer retention.” Presented at PMRC 2019, Chapel Hill, NC. [Slides](files/pmrc.pdf)
 
