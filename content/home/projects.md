@@ -75,7 +75,7 @@ subtitle = ""
 +++
 
 ## Volunteerism, Advocacy
-* Zhang, R., [Haohan Chen](https://haohanchen.github.io), & [Jill Nicholson-Crotty](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/nicholson-crotty-jill.html). “A new bureaucratic effect: Does government funding to nonprofit organizations crowd out or crowd in volunteers?" (under review)
+* Zhang, R., [Haohan Chen](https://haohanchen.github.io), & [Jill Nicholson-Crotty](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/nicholson-crotty-jill.html). “A new bureaucratic effect: Does government funding to nonprofit organizations crowd out or crowd in volunteers?" (revise & resubmit)
 
 * Zhang, R. “Persistence in adversity: Why do protesters in China respond to state control differently?" Presented at ARNOVA 2018, Austin, TX; ISTR 2018, Amsterdam, The Netherlands.
 
